@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="RMS_GUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Restaurant-Management-System-Core-Java-Project-master/RMS_GUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
